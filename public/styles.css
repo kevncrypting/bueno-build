@@ -1,0 +1,20 @@
+#showContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.card {
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    padding: 1rem 2rem;
+}
+
+#showsButton {
+    padding: 1rem;
+}
+
+#showsButton:hover {
+    background-color: bisque;
+}
